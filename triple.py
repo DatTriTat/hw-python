@@ -1,4 +1,4 @@
-def my_decorator(func):
+def tripler(func):
     """
     Call the function that this function is used on three times.
 
