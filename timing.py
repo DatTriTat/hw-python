@@ -1,7 +1,12 @@
 import time
 def calculate_time(func):
     """
-    Calculate the time in seconds to run the function
+    Calculate the time in seconds to run the function.
+
+    Parameters
+    ----------
+    func : fuction
+       This function is called to use
 
     Examples
     --------
