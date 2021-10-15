@@ -69,4 +69,4 @@ def parse_input():
     operator = list[1]
     num2 = float(list[2])
     result = calculator(num1, num2, operator)
-    print(f'The result: {result}')
+    print(f'{result}')
